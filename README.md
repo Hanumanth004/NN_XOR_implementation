@@ -17,6 +17,13 @@ step2: run the python script with the below syntax
 
 If you face any issues please send me an email. Thank you.
 
+
+# NOTE
+
+Implementation and testing is done with the python version Python 2.7.10 
+
+
+
 License
 
 MIT License
