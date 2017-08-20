@@ -20,8 +20,8 @@ If you face any issues please send me an email. Thank you.
 
 # NOTE
 
-## Implementation and testing is done with the python version Python 2.7.10 
-## Make sure the dependencies, you might get package errors in case some of the required packages are not installed
+## Implementation is done using python version Python 2.7.10 
+## Make sure the dependencies, you might get errors in case some of the required packages are not installed
 
 
 
