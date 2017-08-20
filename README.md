@@ -1,6 +1,6 @@
 # NN_XOR_implementation
 # Example of implementaion of Neural Network for XOR gate
-Neural Network implemenation of XOR gate with different activation functions (sigmoid, ReLU and tanh) and parameter update techniques. This implementation do not use any libraries for bacward and forward progration implemenation, other than using Linear Algebra subroutines for Matrix vector multiplication. This is an initial implemenation, so there might bugs! Any comments or suggestions are welcome!
+Neural Network implemenation of XOR gate in python with different activation functions (sigmoid, ReLU and tanh) and parameter update techniques. This implementation do not use any libraries for backward and forward progration implemenation, other than using Linear Algebra subroutines for Matrix vector multiplication. This is an initial implemenation, so there might be some bugs! Any comments or suggestions in making the design better are welcome!
 
 
 # Steps to use the design files
@@ -20,7 +20,7 @@ If you face any issues please send me an email. Thank you.
 
 # NOTE
 
-## Implementation is done using python version Python 2.7.10 
+## Implementation is done using Python 2.7.10 
 ## Make sure the dependencies, you might get errors in case some of the required packages are not installed
 
 
