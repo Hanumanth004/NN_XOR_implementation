@@ -7,6 +7,8 @@ Neural Network implemenation of XOR gate in python with different activation fun
 
 step1: Clone the git repository
 
+        git clone https://github.com/Hanumanth004/NN_XOR_implementation.git
+
 step2: run the python script with the below syntax
         
        python <script_name.py>
